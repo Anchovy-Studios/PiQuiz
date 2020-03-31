@@ -1,0 +1,5 @@
+code = {
+    'A01': 'UNAUTHORIZED CLIENT CODE',
+    'C01': 'EMPTY FIELD',
+    'B01': 'CONTENT NOT VALID'
+}

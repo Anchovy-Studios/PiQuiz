@@ -1,0 +1,10 @@
+1|Sekumpulan komputer berjumlah banyak yang terpisah-pisah akan tetapi saling berhubungan dalam melaksanakan tugasnya merupakan pengertian dari...|10|Jaringan komputer|Manajemen komputer|Sistem komputer|Jaringan dasar|1
+2| Jaringan dengan area operasi lebih besar dari LAN tetapi lebih kecil dari WAN (disebuah kota), dengan kapasitas data dan performa hardware yang tinggi merupakan pengertian dari...|10|SAN|WAN|TAN|MAN|4
+3|Berikut ini perangkat yang umum digunakan ketika kita akan membuat jaringan LAN, kecuali...|10|Repeater|Router|Antena|Hub|3
+4|1+0 = |10|1|2|3|4|1
+5|1+1 = |10|1|2|3|4|2
+6|1+2 = |10|1|2|3|4|3
+7|1+3 = |10|1|2|3|4|4
+8|0x1 = |10|0|1|2|3|1
+9|0x2 = |10|0|1|2|3|2
+10|0x3 = |10|0|1|2|3|3

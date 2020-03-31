@@ -1,0 +1,10 @@
+1: Establish connection
+2: Connection success
+3: Send question file
+4: Acknowledge question file
+5: Send question to client
+6: Send answer to server
+7: Display next question
+8: Send all player score
+9:
+10: Terminate connection
